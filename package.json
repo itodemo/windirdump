@@ -1,0 +1,27 @@
+{
+  "name": "windirdump",
+  "version": "0.0.1",
+  "description": "tool for making windows drive partitions dump for further processing",
+  "main": "index.js",
+  "scripts": {
+    "test": "node tests/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itodemo/windirdump.git"
+  },
+  "keywords": [
+    "windows",
+    "partitions",
+    "dump",
+    "cli",
+    "tool",
+    "utils"
+  ],
+  "author": "Kostyantyn Didenko <demo@ito-global.com> (https://git.io/ito/demo)",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/itodemo/windirdump/issues"
+  },
+  "homepage": "https://github.com/itodemo/windirdump#readme"
+}
